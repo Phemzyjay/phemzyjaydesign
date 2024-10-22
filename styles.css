@@ -1,0 +1,118 @@
+body{
+font-family: "Merriweather", serif;
+}
+h5 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+p {
+    text-decoration: none;
+}
+/* home */
+#home{
+    background-color: floralwhite;
+    padding:2% 2%;  
+}
+.home-image{
+    width:100%;
+    margin-top:5px;
+    border-radius:100%;
+    border-bottom-left-radius: 20%;
+    border-top-left-radius: 20%;
+
+}
+
+
+/* sec-page */
+#sec-page{
+    background-color: darksalmon;
+    padding:5% 5%;
+    text-align:center;
+}
+.font-awesome{
+   
+    
+}
+/* middle-class */
+
+#mid-page{
+    background-color:bisque;
+    text-align:center;
+    border-radius:100%;
+   
+}
+.slide-img{
+    padding:5% 5%;
+    width:100%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+
+ 
+}
+/* anchor tag */
+a {
+    text-decoration: none;
+    color:rosybrown;
+}
+.btn {
+    background-color:rosybrown;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform:uppercase;
+    color:black;
+    padding: 30px, 30px;
+    border-radius:5000px;
+    transition: 0.3s;
+}
+.btn:hover {
+    transform: scale(1.15);
+}
+
+/* contact page */
+
+#contact-page {
+    padding:2% 4%;
+    background-color:floralwhite
+
+}
+
+#contact-text {
+    width:100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+/* contact icon */
+#contact-iconpage {
+    padding:4% 5%;
+    background-color:antiquewhite;
+
+}
+.contact-row {
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:center;
+    line-height:1.5;
+}
+
+.contact-img1 {
+    width:25%;
+    float:left;
+    margin-left:30px;
+   
+}
+.contact-img2 {
+    width:25%;
+    float:right;
+    margin-right:10px;
+      
+}
+.contact-img3 {
+    width:25%;
+    float:left;
+    margin-left:20px;   
+}
+
+
